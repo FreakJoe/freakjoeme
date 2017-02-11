@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "freakjoe.me"
+baseurl = "http://freakjoe.me/"
+theme = "black-and-light"
