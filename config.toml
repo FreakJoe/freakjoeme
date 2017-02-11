@@ -1,4 +1,12 @@
 languageCode = "en-us"
 title = "freakjoe.me"
 baseurl = "http://freakjoe.me/"
-theme = "black-and-light"
+theme = "beautifulhugo"
+
+[Params]
+  favicon = "favicon.ico"
+  commit = false
+
+[Author]
+  github = "FreakJoe"
+  stackoverflow = "users/7396066/freakjoe"
